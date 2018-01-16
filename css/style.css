@@ -1,0 +1,24 @@
+#carousel {
+    margin: 0 auto;
+    width: 800px;
+    height: 500px;
+    border: 2px solid rgb(105, 105, 105);
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#carousel ul {
+    width: 3200px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#carosuel ul li {
+    list-style-type: none;
+    width: 800px;
+    height: 500px;
+    float: left;
+}
