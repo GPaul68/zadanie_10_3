@@ -14,5 +14,3 @@ $ (function(){
         carouselList.css({marginLeft:0});
     }
 });
-
-
